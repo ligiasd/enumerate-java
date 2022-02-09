@@ -1,7 +1,8 @@
-package entities.enums;
+package entities;
 
 import entities.Department;
 import entities.HourContract;
+import entities.enums.WorkerLevel;
 
 import java.util.ArrayList;
 import java.util.Calendar;
